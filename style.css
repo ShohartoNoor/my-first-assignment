@@ -15,7 +15,7 @@ header > nav{
 }
 
 header{
-    background-image: url('assets/Hero-bg.png');
+    background-image: url('Assets/Hero-bg.png');
     /* width: auto;*/
     height: 40rem; 
     background-size: cover;
