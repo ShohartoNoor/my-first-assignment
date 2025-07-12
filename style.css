@@ -272,3 +272,108 @@ header > nav > h1{
     padding: 2rem;
     border-radius: 2rem;
 }
+
+.focus > h1{
+    font-size: 4rem;
+}
+
+.focus > p{
+    margin-top: -10px;
+    font-size: 20px;
+    color: rgba(37, 36, 50, 0.5);
+}
+
+#getStartedFree-btn{
+    width: 15rem;
+    margin-top: 1rem;
+}
+
+.focus-img{
+    width: 52.5rem;
+    height: 22.798125rem;
+    border-radius: 3rem;
+    margin-top: 3rem;
+}
+
+.getInTouch{
+    /* background-color: cornflowerblue; */
+    width: 75.25rem;
+    height: 43.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem;
+}
+
+.getInTouch-text{
+    font-size: 5rem;
+}
+
+.getInTouch-form > p{
+    font-size: 2rem;
+}
+
+.input-touch{
+    width: 25rem;
+    height: 3rem;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+    margin-top: -20px;
+    border: none;
+    background-color: rgba(214, 221, 237, 1);
+}
+
+.large-input {
+    width: 25rem;     /* wider */
+    height: 100px;     /* taller */
+    font-size: 1.5rem;
+    padding: 10px;
+    border-radius: 1rem;
+    margin-top: -20px;
+    border: none;
+    background-color: rgba(214, 221, 237, 1);
+  }
+
+#getInTouch-btn{
+    width: 26rem; 
+    margin-top: 2rem;
+}
+
+footer{
+    background-color: rgb(247, 242, 242);
+    width: auto;
+    height: 26.75rem;
+    /* align-items: center; */
+}
+
+
+.footer-logo{
+    color: #4E47FF;
+    font-size: 5rem;
+    margin-top: 8rem;
+}
+
+.footer-text{
+    text-align: center;
+    margin-top: -2rem;
+    font-size: 1.2rem;
+    color: rgba(37, 36, 50, 0.5);
+}
+
+.footer-content{
+    display: flex;flex-direction: column;
+    align-items: center;
+}
+
+.footer-link{
+    margin-top: 2rem;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 2rem;
+    font-size: 1.5rem;
+    color: rgba(37, 36, 50, 0.5);
+}
